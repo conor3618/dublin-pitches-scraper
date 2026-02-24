@@ -74,3 +74,6 @@ A scheduled action runs `pitch_scraper.py` daily and updates `dcc_pitches.json` 
 ## Data Source
 [Dublin City Council](https://www.dublincity.ie)  
 Official pitch playability data. DCC neither endorses this project nor guarantees data accuracy.
+
+### License
+[Licensed under Unlicense](https://unlicense.org/)  
