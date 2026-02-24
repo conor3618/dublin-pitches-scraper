@@ -3,7 +3,7 @@
 A Python project that scrapes the [DCC Pitch Playability page](https://www.dublincity.ie/residential/parks/dublin-city-parks/pitch-playability) to retrieve the latest playability status for all Dublin City Council pitches. Includes a scheduled GitHub Action that automatically updates data daily.
 
 ## Features
-- Extracts all 63+ Dublin City Council pitches and playing fields
+- Extracts Dublin City Council pitches and playing fields
 - Captures "Latest updated" date directly from the webpage
 - Determines playability status from "Status On" / "Status Off" table columns
 - Exports complete structured data to `dcc_pitches.json`
