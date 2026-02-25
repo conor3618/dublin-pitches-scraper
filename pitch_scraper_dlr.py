@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+
 """
-DLR Pitches Scraper - FINAL (Clean Output)
+DLR Pitches Scraper
 """
 
 import requests
