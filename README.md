@@ -27,8 +27,8 @@ python pitch_scraper_fingal.py  # FCC only
 python pitch_scraper_dlr.py     # DLR only
 
 # Example output:
-# Exported 42/63 playable DCC pitches
-# ✓ Data exported to data/dcc_pitches.json
+Exported 42/63 playable DCC pitches
+✓ Data exported to data/dcc_pitches.json
 ```
 
 ## JSON Structure
