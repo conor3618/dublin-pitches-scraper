@@ -7,6 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
+import os
 
 
 FINGAL_URL = "https://www.fingal.ie/playability-pitches"
@@ -48,12 +49,14 @@ def scrape_fingal_pitches():
 
     scrape_time = datetime.now().isoformat()
 
+    # Export to data/fingal_pitches.json
+    os.makedirs("data", exist_ok=True)
     data = {
         "scrape_time": scrape_time,
         "report_date": report_date,
         "pitches": pitches
     }
-    with open("fingal_pitches.json", "w") as f:
+    with open("data/fingal_pitches.json", "w") as f:
         json.dump(data, f, indent=2)
 
     return pitches, report_date
@@ -73,4 +76,4 @@ def print_fingal_statuses(pitches, report_date):
 if __name__ == "__main__":
     pitches, report_date = scrape_fingal_pitches()
     print_fingal_statuses(pitches, report_date)
-    print("\nData exported to fingal_pitches.json")
+    print("\nData exported to data/fingal_pitches.json")
