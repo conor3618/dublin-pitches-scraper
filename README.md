@@ -77,4 +77,3 @@ Official council data. Neither council endorses this project nor guarantees data
 
 ### License
 [Licensed under Unlicense](https://unlicense.org/)
-```
