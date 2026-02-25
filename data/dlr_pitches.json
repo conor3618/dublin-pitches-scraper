@@ -1,0 +1,161 @@
+{
+  "scrape_time": "2026-02-25T11:33:41.260600+00:00",
+  "council": "DLR",
+  "source": "map-popups",
+  "pitches": [
+    {
+      "name": "Ticknick",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Stepaside Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Cabinteely Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Balally Hill Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Meadowvale Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Soldiers & Sailors Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Rockfield Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Shanganagh Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Loughlinstown Wood Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Holly Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Fernhill Pitches - Junior Pitch (only) - Soccer & Gaelic",
+      "status": "playable",
+      "playable": true,
+      "coordinates": null
+    },
+    {
+      "name": "Kilbogget Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Hudson Road Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Hyde Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Thomastown Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Leopardstown Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Bearna Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Moreen Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Páirc Uí Bhríain",
+      "status": "playable",
+      "playable": true,
+      "coordinates": null
+    },
+    {
+      "name": "Marlay Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Broadford Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Meadowbrook Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Deer Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Loreto Park Pitches",
+      "status": "not playable",
+      "playable": false,
+      "coordinates": null
+    },
+    {
+      "name": "Rosemount Park Pitches",
+      "status": "playable",
+      "playable": true,
+      "coordinates": null
+    }
+  ],
+  "summary": {
+    "total": 25,
+    "playable": 3
+  }
+}
