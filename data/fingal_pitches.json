@@ -1,0 +1,312 @@
+{
+  "scrape_time": "2026-02-25T09:30:31.047153",
+  "report_date": "Playability of Pitches Report Friday 20th February To Friday 27th February 2026",
+  "pitches": [
+    {
+      "name": "Beechpark D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Coolmine Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Corduff Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Damastown Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Hartstown Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Hazelbury Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Ladyswell Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Lanesborough Park Finglas",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Latchford Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Littlepace/Hunters\u2019 Run D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Mick Walsh Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Mountview Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Porterstown Park D15",
+      "status_on": "",
+      "status_off": "",
+      "playable": false
+    },
+    {
+      "name": "Porterstown Park D15",
+      "status_on": "",
+      "status_off": "",
+      "playable": false
+    },
+    {
+      "name": "St. Catherines Park Lucan",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Tyrrelstown Park D15",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Alden Park Baldoyle",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Broomfield Malahide",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Grace O\u2019Malley Park Howth",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Kettles Park Malahide",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Malahide Demesne",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Portmarnock SLC",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Racecourse Park Baldoyle",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Robswall Malahide",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Robswall (Paddy\u2019s Hill) Park",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Seabury Malahide",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Seagrange Park Malahide",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Waterside Malahide",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Balheary Park (Estuary) Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Balheary Park (Broadmeadows) Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Balheary (Reservoir) Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Holywell Park Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Miller\u2019s Glen Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Newbridge Demesne",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "New Road Donabate",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Ridgewood (Rathingle) Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Ridgewood Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Rivermeade St Margarets",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Rivervalley Swords",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Swords Manor",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Ballast Pit Skerries",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Bremore Regional Park Balbriggan",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Dun Emer & Chapel Farm Lusk",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Glebe Park Balrothery",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Hayestown Open Space Rush",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Kelly\u2019s Bay & Mourne Park Skerries",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Orlynn Park & The Forge Lusk",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Rathmore Road Lusk",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "St. Catherine\u2019s Park Rush",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Town Park Skerries",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    },
+    {
+      "name": "Town Park & Pump Lane & Craobhinn Park Balbriggan",
+      "status_on": "",
+      "status_off": "OFF",
+      "playable": false
+    }
+  ]
+}
