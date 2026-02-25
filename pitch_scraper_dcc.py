@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Dublin City Council Pitch Playability Scraper
 """
@@ -6,12 +5,10 @@ Dublin City Council Pitch Playability Scraper
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 
-
 DCC_URL = "https://www.dublincity.ie/residential/parks/dublin-city-parks/pitch-playability"
-
 
 def scrape_dcc_pitches():
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -41,39 +38,33 @@ def scrape_dcc_pitches():
             
             pitches.append({
                 "name": name,
-                "status_on": status_on,
-                "status_off": status_off,
                 "status": status,
-                "playable": playable
+                "playable": playable,
+                "Council": "DCC"
             })
     
-    scrape_time = datetime.now().isoformat()
-    
-    # Export to data/dcc_pitches.json
-    os.makedirs("data", exist_ok=True)
     data = {
-        "scrape_time": scrape_time,
-        "last_updated": last_updated,
+        "scrape_time": datetime.now(timezone.utc).isoformat(),
+        "council": "DCC",
         "pitches": pitches
     }
-    with open("data/dcc_pitches.json", "w") as f:
-        json.dump(data, f, indent=2)
     
-    return pitches, last_updated
+    os.makedirs("data", exist_ok=True)
+    with open("data/dcc_pitches.json", "w", encoding='utf-8') as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    return pitches
 
-
-def print_dcc_statuses(pitches, last_updated):
-    print("DUBLIN CITY COUNCIL PITCHES:")
-    print(f"Last updated: {last_updated}\n")
+def print_dcc_statuses(pitches):
     playable = sum(1 for p in pitches if p["playable"])
+    print("DUBLIN CITY COUNCIL PITCHES:")
     print(f"PLAYABLE: {playable}/{len(pitches)}\n")
     
     for p in pitches:
         status = "Playable" if p["playable"] else "Unplayable"
         print(f"{p['name']} : {status}")
 
-
 if __name__ == "__main__":
-    pitches, last_updated = scrape_dcc_pitches()
-    print_dcc_statuses(pitches, last_updated)
-    print("\nData exported to data/dcc_pitches.json")
+    pitches = scrape_dcc_pitches()
+    print_dcc_statuses(pitches)
+    print("\n✓ Data exported to data/dcc_pitches.json")
