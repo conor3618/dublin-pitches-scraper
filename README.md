@@ -1,5 +1,3 @@
-update readme "# Dublin & Fingal Pitches Scraper
-
 A Python project that scrapes **Dublin City Council (DCC)** and **Fingal County Council (FCC)** pitch playability pages to retrieve the latest status for all playing pitches. Includes a scheduled GitHub Action that automatically updates data daily.
 
 ## Features
