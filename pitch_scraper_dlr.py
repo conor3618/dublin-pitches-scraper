@@ -1,4 +1,3 @@
-
 """
 DLR Pitches Scraper
 """
@@ -6,10 +5,8 @@ DLR Pitches Scraper
 import requests
 from bs4 import BeautifulSoup
 import json
-import re
 import os
 from datetime import datetime, timezone
-from urllib.parse import parse_qs, urlparse
 
 def scrape_dlr_pitches():
     url = "https://www.dlrcoco.ie/pitches"
@@ -31,37 +28,22 @@ def scrape_dlr_pitches():
         status_text = status_elem.get_text().strip().lower() if status_elem else "unknown"
         is_playable = status_text == "playable"
         
-        link_elem = popup.find('a', href=True)
-        coords = None
-        if link_elem and 'google.com/maps' in link_elem['href']:
-            query = parse_qs(urlparse(link_elem['href']).query)
-            if 'query' in query:
-                coord_match = re.search(r'(-?d+.?d*),(-?d+.?d*)', query['query'][0])
-                if coord_match:
-                    coords = {
-                        "lat": float(coord_match.group(1)),
-                        "lng": float(coord_match.group(2))
-                    }
-        
         pitches.append({
             "name": name,
             "status": status_text,
             "playable": is_playable,
-            "coordinates": coords
+            "Council": "DLR"
         })
     
     data = {
         "scrape_time": datetime.now(timezone.utc).isoformat(),
         "council": "DLR",
-        "source": "map-popups",
-        "pitches": pitches,
-        "summary": {
-            "total": len(pitches),
-            "playable": len([p for p in pitches if p["playable"]])
-        }
+        "pitches": pitches
     }
     
-    print(f"Exported to data/dlr_pitches.json: {data['summary']['playable']}/{data['summary']['total']} playable")
+    playable_count = len([p for p in pitches if p["playable"]])
+    total_count = len(pitches)
+    print(f"Exported {playable_count}/{total_count} playable DLR pitches")
     return data
 
 def main():
@@ -72,7 +54,7 @@ def main():
     with open('data/dlr_pitches.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
-    print("Exported to data/dlr_pitches.json")
+    print("✓ Exported to data/dlr_pitches.json")
 
 if __name__ == "__main__":
     main()
