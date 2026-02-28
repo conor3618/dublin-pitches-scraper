@@ -1,15 +1,9 @@
 {
-  "scrape_time": "2026-02-27T08:42:24.345583+00:00",
+  "scrape_time": "2026-02-28T08:31:49.840645+00:00",
   "council": "DLR",
   "pitches": [
     {
       "name": "Ticknick",
-      "status": "not playable",
-      "playable": false,
-      "Council": "DLR"
-    },
-    {
-      "name": "Stepaside Pitches",
       "status": "not playable",
       "playable": false,
       "Council": "DLR"
@@ -28,8 +22,8 @@
     },
     {
       "name": "Meadowvale Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -40,8 +34,8 @@
     },
     {
       "name": "Rockfield Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -52,8 +46,8 @@
     },
     {
       "name": "Loughlinstown Wood Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -82,14 +76,14 @@
     },
     {
       "name": "Hyde Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Thomastown Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -112,20 +106,20 @@
     },
     {
       "name": "Páirc Uí Bhríain",
+      "status": "not playable",
+      "playable": false,
+      "Council": "DLR"
+    },
+    {
+      "name": "Marlay Park Pitches",
       "status": "playable",
       "playable": true,
       "Council": "DLR"
     },
     {
-      "name": "Marlay Park Pitches",
-      "status": "not playable",
-      "playable": false,
-      "Council": "DLR"
-    },
-    {
       "name": "Broadford Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -142,8 +136,8 @@
     },
     {
       "name": "Loreto Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {

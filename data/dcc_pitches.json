@@ -1,11 +1,11 @@
 {
-  "scrape_time": "2026-02-27T08:42:21.873468+00:00",
+  "scrape_time": "2026-02-28T08:31:46.794484+00:00",
   "council": "DCC",
   "pitches": [
     {
       "name": "ALBERT COLLEGE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -28,14 +28,14 @@
     },
     {
       "name": "BALCURRIS",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "BEECH HILL, DONNYBROOK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -130,14 +130,14 @@
     },
     {
       "name": "DONAGHMEDE PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "DONNYCARNEY",
-      "status": "OFF",
-      "playable": false,
+      "status": "Pitch No.1 ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -148,8 +148,8 @@
     },
     {
       "name": "EDENMORE CRESCENT",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
       "name": "FARNHAM CRESCENT",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
       "name": "HERBERT",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -202,8 +202,8 @@
     },
     {
       "name": "JOHNSTOWN",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -256,14 +256,14 @@
     },
     {
       "name": "MELLOWES",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "MILLBROOK/STREAMVILLE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -274,8 +274,8 @@
     },
     {
       "name": "NORTHWAY PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -286,8 +286,8 @@
     },
     {
       "name": "PLUNKETT AVENUE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -298,8 +298,8 @@
     },
     {
       "name": "POPPINTREE NORTH IKEA",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -376,8 +376,8 @@
     },
     {
       "name": "WOODBINE ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     }
   ]

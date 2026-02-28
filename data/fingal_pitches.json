@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-02-27T08:42:23.011101+00:00",
+  "scrape_time": "2026-02-28T08:31:48.217390+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "name": "Coolmine Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -22,13 +22,13 @@
     },
     {
       "name": "Damastown Park D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Hartstown Park D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
@@ -64,44 +64,38 @@
     },
     {
       "name": "Mick Walsh Park D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Mountview Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Porterstown Park D15",
-      "status": "",
-      "playable": false,
-      "Council": "FCC"
-    },
-    {
-      "name": "Porterstown Park D15",
-      "status": "",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "St. Catherines Park Lucan",
-      "status": "OFF",
+      "status": "SC5, SC6, SC7, SC8, SC9, SC10, SC11 OFF",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Tyrrelstown Park D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Alden Park Baldoyle",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -112,44 +106,44 @@
     },
     {
       "name": "Grace O’Malley Park Howth",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Kettles Park Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Malahide Demesne",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Portmarnock SLC",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Racecourse Park Baldoyle",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Robswall Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Robswall (Paddy’s Hill) Park",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -166,8 +160,8 @@
     },
     {
       "name": "Waterside Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
