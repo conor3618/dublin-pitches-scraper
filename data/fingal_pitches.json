@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-02T08:49:21.695404+00:00",
+  "scrape_time": "2026-03-03T08:43:00.143780+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -112,8 +112,8 @@
     },
     {
       "name": "Kettles Park Malahide",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
