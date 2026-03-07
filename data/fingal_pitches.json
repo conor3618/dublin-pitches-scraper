@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-06T08:40:04.045138+00:00",
+  "scrape_time": "2026-03-07T08:33:40.685502+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "name": "Corduff Park D15",
-      "status": "OFF",
+      "status": "CP1, CP2 OFF",
       "playable": false,
       "Council": "FCC"
     },
@@ -77,12 +77,12 @@
     {
       "name": "Porterstown Park D15",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "St. Catherines Park Lucan",
-      "status": "SC5, SC6, SC7, SC8, SC9, SC10, SC11 OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
@@ -112,7 +112,7 @@
     },
     {
       "name": "Kettles Park Malahide",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
@@ -166,20 +166,20 @@
     },
     {
       "name": "Balheary Park (Estuary) Swords",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Balheary Park (Broadmeadows) Swords",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Balheary (Reservoir) Swords",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "name": "Miller’s Glen Swords",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -202,56 +202,56 @@
     },
     {
       "name": "New Road Donabate",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Ridgewood (Rathingle) Swords",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Ridgewood Swords",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Rivermeade St Margarets",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Rivervalley Swords",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Swords Manor",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Ballast Pit Skerries",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Bremore Regional Park Balbriggan",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Dun Emer & Chapel Farm Lusk",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -262,14 +262,14 @@
     },
     {
       "name": "Hayestown Open Space Rush",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Kelly’s Bay & Mourne Park Skerries",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -280,26 +280,26 @@
     },
     {
       "name": "Rathmore Road Lusk",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "St. Catherine’s Park Rush",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Town Park Skerries",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Town Park & Pump Lane & Craobhinn Park Balbriggan",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     }
   ]

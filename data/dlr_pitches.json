@@ -1,23 +1,23 @@
 {
-  "scrape_time": "2026-03-06T08:40:05.264300+00:00",
+  "scrape_time": "2026-03-07T08:33:41.924727+00:00",
   "council": "DLR",
   "pitches": [
     {
       "name": "Ticknick",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Cabinteely Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Balally Hill Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -28,8 +28,8 @@
     },
     {
       "name": "Soldiers & Sailors Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -40,8 +40,8 @@
     },
     {
       "name": "Shanganagh Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -52,8 +52,8 @@
     },
     {
       "name": "Holly Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "Kilbogget Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -76,8 +76,8 @@
     },
     {
       "name": "Hyde Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -88,26 +88,26 @@
     },
     {
       "name": "Leopardstown Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Bearna Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Moreen Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Páirc Uí Bhríain",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -124,14 +124,14 @@
     },
     {
       "name": "Meadowbrook Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Deer Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {

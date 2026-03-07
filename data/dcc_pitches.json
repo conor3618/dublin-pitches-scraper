@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-06T08:40:02.878861+00:00",
+  "scrape_time": "2026-03-07T08:33:39.531829+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "name": "ALFIE BYRNE ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -70,8 +70,8 @@
     },
     {
       "name": "BUSHY PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -106,8 +106,8 @@
     },
     {
       "name": "CROYDEN GARDENS",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "name": "DARTRY",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "name": "DONNYCARNEY",
-      "status": "Pitch No.1 ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -160,8 +160,8 @@
     },
     {
       "name": "FAIRVIEW",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -190,14 +190,14 @@
     },
     {
       "name": "IRISHTOWN",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "JOHN PAUL PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "name": "KILDONAN ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -220,14 +220,14 @@
     },
     {
       "name": "LE FANU",
-      "status": "OFF",
-      "playable": false,
+      "status": "Pitches 1, 2, 3 & 5 ONPitches 4 & 7 ON Mornings only",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "LEIN ROAD OPEN SPACE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -238,8 +238,8 @@
     },
     {
       "name": "MARINO",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -250,8 +250,8 @@
     },
     {
       "name": "MARTIN SAVAGE",
-      "status": "OFF",
-      "playable": false,
+      "status": "Pitch 5 ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -292,8 +292,8 @@
     },
     {
       "name": "POPPINTREE",
-      "status": "OFF",
-      "playable": false,
+      "status": "Soccer ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -304,8 +304,8 @@
     },
     {
       "name": "RINGSEND PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -322,26 +322,26 @@
     },
     {
       "name": "SEAN MOORE PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "SPRINGDALE ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "ST. ANNE'S",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "STANNAWAY",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -352,14 +352,14 @@
     },
     {
       "name": "THE RANCH INCHICORE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "TOLKA VALLEY",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -370,8 +370,8 @@
     },
     {
       "name": "WILLIE PEARSE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
