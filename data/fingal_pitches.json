@@ -1,10 +1,10 @@
 {
-  "scrape_time": "2026-03-13T08:41:40.305264+00:00",
+  "scrape_time": "2026-03-14T08:37:39.764840+00:00",
   "council": "FCC",
   "pitches": [
     {
       "name": "Beechpark D15",
-      "status": "OFF",
+      "status": "On",
       "playable": false,
       "Council": "FCC"
     },
@@ -16,8 +16,8 @@
     },
     {
       "name": "Corduff Park D15",
-      "status": "CP1, CP2 OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -34,31 +34,31 @@
     },
     {
       "name": "Hazelbury Park D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Ladyswell Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Lanesborough Park Finglas",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Latchford Park D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Littlepace/Hunters’ Run D15",
-      "status": "OFF",
+      "status": "ON",
       "playable": false,
       "Council": "FCC"
     },
@@ -113,7 +113,7 @@
     {
       "name": "Kettles Park Malahide",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -166,20 +166,20 @@
     },
     {
       "name": "Balheary Park (Estuary) Swords",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Balheary Park (Broadmeadows) Swords",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Balheary (Reservoir) Swords",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -190,8 +190,8 @@
     },
     {
       "name": "Miller’s Glen Swords",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -202,37 +202,37 @@
     },
     {
       "name": "New Road Donabate",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Ridgewood (Rathingle) Swords",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Ridgewood Swords",
-      "status": "ON",
+      "status": "OFF",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Rivermeade St Margarets",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Rivervalley Swords",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Swords Manor",
-      "status": "ON",
+      "status": "OFF",
       "playable": false,
       "Council": "FCC"
     },
@@ -256,8 +256,8 @@
     },
     {
       "name": "Glebe Park Balrothery",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
