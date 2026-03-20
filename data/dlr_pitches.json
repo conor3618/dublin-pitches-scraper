@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-19T08:43:22.611116+00:00",
+  "scrape_time": "2026-03-20T08:42:28.815321+00:00",
   "council": "DLR",
   "pitches": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "name": "Shanganagh Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -64,20 +64,20 @@
     },
     {
       "name": "Kilbogget Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Hudson Road Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Hyde Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
