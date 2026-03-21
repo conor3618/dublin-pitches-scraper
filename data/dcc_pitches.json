@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-20T08:42:26.383999+00:00",
+  "scrape_time": "2026-03-21T08:35:35.063963+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -16,14 +16,14 @@
     },
     {
       "name": "ARDMORE DRIVE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "ASHINGTON PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -40,14 +40,14 @@
     },
     {
       "name": "BELCAMP/PRIORSWOOD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "BENMADIGAN ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "name": "BRICKFIELDS",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "BUNTING ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "name": "COULTRY PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -124,8 +124,8 @@
     },
     {
       "name": "DOLPHIN ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -172,14 +172,14 @@
     },
     {
       "name": "FR. COLLINS PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "GALTYMORE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -208,14 +208,14 @@
     },
     {
       "name": "KILDONAN ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "KILMORE DRIVE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "name": "MC AULEY",
-      "status": "PITCH 1 ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -256,8 +256,8 @@
     },
     {
       "name": "MELLOWES",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -268,26 +268,26 @@
     },
     {
       "name": "MOUNT OLIVE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "NORTHWAY PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "OSCAR TRAYNOR",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
       "name": "PLUNKETT AVENUE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -316,8 +316,8 @@
     },
     {
       "name": "ROSEGLEN AVE.",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -352,8 +352,8 @@
     },
     {
       "name": "THE RANCH INCHICORE",
-      "status": "OFF",
-      "playable": false,
+      "status": "PITCH 1 ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -364,8 +364,8 @@
     },
     {
       "name": "WALKINSTOWN",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
