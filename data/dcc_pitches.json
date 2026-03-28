@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-27T08:55:41.741238+00:00",
+  "scrape_time": "2026-03-28T08:41:47.756659+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "name": "BENMADIGAN ROAD",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "name": "BRICKFIELDS",
-      "status": "ON",
+      "status": "PITCH 3 ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {

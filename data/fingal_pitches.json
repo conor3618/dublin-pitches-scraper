@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-03-27T08:55:42.900810+00:00",
+  "scrape_time": "2026-03-28T08:41:49.053194+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "name": "Lanesborough Park Finglas",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -59,7 +59,7 @@
     {
       "name": "Littlepace/Hunters’ Run D15",
       "status": "ON",
-      "playable": true,
+      "playable": false,
       "Council": "FCC"
     },
     {
