@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-04-02T08:59:19.758884+00:00",
+  "scrape_time": "2026-04-03T08:56:36.621671+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "name": "BENMADIGAN ROAD",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "name": "BRICKFIELDS",
-      "status": "PITCH 3 ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "name": "THE RANCH INCHICORE",
-      "status": "PITCH 1 ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },

@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-04-02T08:59:20.847550+00:00",
+  "scrape_time": "2026-04-03T08:56:37.939114+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -29,7 +29,7 @@
     {
       "name": "Hartstown Park D15",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -46,8 +46,8 @@
     },
     {
       "name": "Lanesborough Park Finglas",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -59,7 +59,7 @@
     {
       "name": "Littlepace/Hunters’ Run D15",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "St. Catherines Park Lucan",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
