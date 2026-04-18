@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-04-17T09:19:38.326942+00:00",
+  "scrape_time": "2026-04-18T08:53:15.124532+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -64,8 +64,8 @@
     },
     {
       "name": "BUNTING ROAD",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
