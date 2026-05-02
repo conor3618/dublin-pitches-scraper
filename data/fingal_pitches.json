@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-05-01T09:47:05.921752+00:00",
+  "scrape_time": "2026-05-02T09:07:30.935293+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "name": "Hazelbury Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -298,12 +298,18 @@
     },
     {
       "name": "Town Park Skerries",
-      "status": "ON",
+      "status": "OFF",
       "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Town Park & Pump Lane & Craobhinn Park Balbriggan",
+      "status": "ON",
+      "playable": true,
+      "Council": "FCC"
+    },
+    {
+      "name": "Hamilton Hill, Skerries",
       "status": "ON",
       "playable": true,
       "Council": "FCC"

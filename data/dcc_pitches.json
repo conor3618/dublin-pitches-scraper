@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-05-01T09:47:05.388830+00:00",
+  "scrape_time": "2026-05-02T09:07:29.788029+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "BELCAMP/PRIORSWOOD",
-      "status": "ON SUN",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
