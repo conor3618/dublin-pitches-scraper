@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-05-15T10:24:45.990533+00:00",
+  "scrape_time": "2026-05-16T09:41:22.476528+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "ALFIE BYRNE ROAD",
-      "status": "ON",
+      "status": "Pitch 2 ON",
       "playable": true,
       "Council": "DCC"
     },
