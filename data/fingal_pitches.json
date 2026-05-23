@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-05-22T10:52:06.104188+00:00",
+  "scrape_time": "2026-05-23T09:54:46.598735+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -298,6 +298,12 @@
     },
     {
       "name": "Town Park & Pump Lane & Craobhinn Park Balbriggan",
+      "status": "ON",
+      "playable": true,
+      "Council": "FCC"
+    },
+    {
+      "name": "Hamilton Hill Skerries",
       "status": "ON",
       "playable": true,
       "Council": "FCC"

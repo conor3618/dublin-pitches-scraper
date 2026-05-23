@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-05-22T10:52:04.804380+00:00",
+  "scrape_time": "2026-05-23T09:54:45.186955+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "GALTYMORE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
