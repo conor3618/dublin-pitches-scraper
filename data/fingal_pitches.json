@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-06-04T11:16:15.596079+00:00",
+  "scrape_time": "2026-06-05T11:29:11.611060+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -77,7 +77,13 @@
     {
       "name": "Porterstown Park D15",
       "status": "ON",
-      "playable": true,
+      "playable": false,
+      "Council": "FCC"
+    },
+    {
+      "name": "Porterstown Park D15",
+      "status": "",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -119,7 +125,7 @@
     {
       "name": "Malahide Demesne",
       "status": "ON",
-      "playable": true,
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -148,8 +154,8 @@
     },
     {
       "name": "Seabury Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -303,7 +309,7 @@
       "Council": "FCC"
     },
     {
-      "name": "Hamilton Hill Skerries",
+      "name": "Hamilton Hill, Skerries",
       "status": "ON",
       "playable": true,
       "Council": "FCC"
