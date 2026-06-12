@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-06-11T12:10:25.239746+00:00",
+  "scrape_time": "2026-06-12T11:43:51.119147+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "name": "ALFIE BYRNE ROAD",
-      "status": "SOCCER ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -160,7 +160,7 @@
     },
     {
       "name": "FAIRVIEW",
-      "status": "ON",
+      "status": "SOCCER ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -334,7 +334,7 @@
     },
     {
       "name": "ST. ANNE'S",
-      "status": "ON MORNINGS",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
