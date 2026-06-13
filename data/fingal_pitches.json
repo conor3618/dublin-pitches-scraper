@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-06-12T11:43:52.466015+00:00",
+  "scrape_time": "2026-06-13T10:29:59.450048+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -77,7 +77,13 @@
     {
       "name": "Porterstown Park D15",
       "status": "ON",
-      "playable": true,
+      "playable": false,
+      "Council": "FCC"
+    },
+    {
+      "name": "Porterstown Park D15",
+      "status": "",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -119,7 +125,7 @@
     {
       "name": "Malahide Demesne",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
