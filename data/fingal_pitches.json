@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-06-23T11:17:23.562621+00:00",
+  "scrape_time": "2026-06-24T10:50:55.207817+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -75,15 +75,9 @@
       "Council": "FCC"
     },
     {
-      "name": "Porterstown Park D15",
+      "name": "Porterstown Park",
       "status": "ON",
-      "playable": false,
-      "Council": "FCC"
-    },
-    {
-      "name": "Porterstown Park D15",
-      "status": "",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
