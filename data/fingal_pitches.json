@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-07-09T10:54:58.063746+00:00",
+  "scrape_time": "2026-07-10T10:54:50.028195+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -106,8 +106,8 @@
     },
     {
       "name": "Grace O’Malley Park Howth",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "name": "Newbridge Demesne",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
