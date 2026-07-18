@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-07-17T09:57:24.918554+00:00",
+  "scrape_time": "2026-07-18T09:26:11.514638+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -160,7 +160,7 @@
     },
     {
       "name": "FAIRVIEW",
-      "status": "SOCCER ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -178,7 +178,7 @@
     },
     {
       "name": "GALTYMORE",
-      "status": "",
+      "status": "OFF",
       "playable": false,
       "Council": "DCC"
     },
