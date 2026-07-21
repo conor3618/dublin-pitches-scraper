@@ -1,11 +1,11 @@
 {
-  "scrape_time": "2026-07-20T10:52:30.709265+00:00",
+  "scrape_time": "2026-07-21T10:25:33.387781+00:00",
   "council": "DLR",
   "pitches": [
     {
       "name": "Ticknick",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "name": "Fernhill Pitches - Junior Pitch (only) - Soccer & Gaelic",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
       "name": "Kilbogget Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -100,14 +100,14 @@
     },
     {
       "name": "Moreen Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
       "name": "Páirc Uí Bhríain",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "name": "Rosemount Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     }
   ]
