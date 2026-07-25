@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-07-24T10:18:21.055601+00:00",
+  "scrape_time": "2026-07-25T09:47:57.184495+00:00",
   "council": "DLR",
   "pitches": [
     {
@@ -22,8 +22,8 @@
     },
     {
       "name": "Meadowvale Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -112,8 +112,8 @@
     },
     {
       "name": "Marlay Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
