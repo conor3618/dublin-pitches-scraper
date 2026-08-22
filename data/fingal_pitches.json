@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-08-21T08:40:22.255113+00:00",
+  "scrape_time": "2026-08-22T08:29:57.551352+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -106,8 +106,8 @@
     },
     {
       "name": "Grace O’Malley Park Howth",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {

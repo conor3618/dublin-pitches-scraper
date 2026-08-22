@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-08-21T08:40:23.490418+00:00",
+  "scrape_time": "2026-08-22T08:29:58.943092+00:00",
   "council": "DLR",
   "pitches": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "name": "Soldiers & Sailors Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
       "name": "Rockfield Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -52,8 +52,8 @@
     },
     {
       "name": "Holly Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
