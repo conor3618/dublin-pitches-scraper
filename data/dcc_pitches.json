@@ -1,10 +1,10 @@
 {
-  "scrape_time": "2026-08-27T18:54:38.550313+00:00",
+  "scrape_time": "2026-08-28T19:56:16.794000+00:00",
   "council": "DCC",
   "pitches": [
     {
       "name": "ALBERT COLLEGE",
-      "status": "GAA ON",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -34,8 +34,8 @@
     },
     {
       "name": "BEECH HILL, DONNYBROOK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
       "name": "HERBERT",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "name": "JOHNSTOWN",
-      "status": "ON",
+      "status": "ON SUN",
       "playable": true,
       "Council": "DCC"
     },
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
