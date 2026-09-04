@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-09-03T12:38:43.095735+00:00",
+  "scrape_time": "2026-09-04T12:32:48.287411+00:00",
   "council": "DLR",
   "pitches": [
     {
@@ -16,8 +16,8 @@
     },
     {
       "name": "Balally Hill Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "name": "Deer Park Pitches",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {

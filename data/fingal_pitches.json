@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-09-03T12:38:41.356519+00:00",
+  "scrape_time": "2026-09-04T12:32:47.037146+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "name": "Ladyswell Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -173,7 +173,7 @@
     {
       "name": "Balheary Park (Broadmeadows) Swords",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -292,8 +292,8 @@
     },
     {
       "name": "Town Park Skerries",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {

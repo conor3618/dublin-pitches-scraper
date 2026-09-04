@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-09-03T12:38:38.595775+00:00",
+  "scrape_time": "2026-09-04T12:32:46.187265+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "name": "BEECH HILL, DONNYBROOK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
       "name": "HERBERT",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "name": "JOHNSTOWN",
-      "status": "ON SUN",
+      "status": "ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
