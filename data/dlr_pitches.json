@@ -1,11 +1,11 @@
 {
-  "scrape_time": "2026-09-10T12:44:36.360557+00:00",
+  "scrape_time": "2026-09-11T12:39:10.663412+00:00",
   "council": "DLR",
   "pitches": [
     {
       "name": "Ticknick",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -22,8 +22,8 @@
     },
     {
       "name": "Meadowvale Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -34,8 +34,8 @@
     },
     {
       "name": "Rockfield Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -58,14 +58,14 @@
     },
     {
       "name": "Fernhill Pitches - Junior Pitch (only) - Soccer & Gaelic",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
       "name": "Kilbogget Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -106,8 +106,8 @@
     },
     {
       "name": "Páirc Uí Bhríain",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
