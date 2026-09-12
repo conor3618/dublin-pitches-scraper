@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-09-11T12:39:10.663412+00:00",
+  "scrape_time": "2026-09-12T11:59:41.513170+00:00",
   "council": "DLR",
   "pitches": [
     {
@@ -58,8 +58,8 @@
     },
     {
       "name": "Fernhill Pitches - Junior Pitch (only) - Soccer & Gaelic",
-      "status": "playable",
-      "playable": true,
+      "status": "not playable",
+      "playable": false,
       "Council": "DLR"
     },
     {
@@ -130,8 +130,8 @@
     },
     {
       "name": "Deer Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "name": "Rosemount Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     }
   ]
