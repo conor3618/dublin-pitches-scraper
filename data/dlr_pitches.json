@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-09-17T13:05:52.662292+00:00",
+  "scrape_time": "2026-09-18T12:45:40.491388+00:00",
   "council": "DLR",
   "pitches": [
     {
@@ -58,8 +58,8 @@
     },
     {
       "name": "Fernhill Pitches - Junior Pitch (only) - Soccer & Gaelic",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "name": "Moreen Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
@@ -112,8 +112,8 @@
     },
     {
       "name": "Marlay Park Pitches",
-      "status": "not playable",
-      "playable": false,
+      "status": "playable",
+      "playable": true,
       "Council": "DLR"
     },
     {
