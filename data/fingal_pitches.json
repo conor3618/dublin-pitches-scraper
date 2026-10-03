@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-10-02T14:30:16.362032+00:00",
+  "scrape_time": "2026-10-03T13:06:24.624511+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -306,6 +306,12 @@
       "name": "Hamilton Hill, Skerries",
       "status": "ON",
       "playable": true,
+      "Council": "FCC"
+    },
+    {
+      "name": "Hamlet Lane",
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     }
   ]
