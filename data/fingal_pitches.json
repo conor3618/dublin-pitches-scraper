@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-10-18T12:28:16.882414+00:00",
+  "scrape_time": "2026-10-19T15:19:11.644780+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "name": "Ladyswell Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
