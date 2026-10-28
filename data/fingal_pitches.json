@@ -1,11 +1,11 @@
 {
-  "scrape_time": "2026-10-21T13:30:20.808907+00:00",
+  "scrape_time": "2026-10-28T14:53:54.758210+00:00",
   "council": "FCC",
   "pitches": [
     {
       "name": "Beechpark D15",
       "status": "ON",
-      "playable": true,
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -52,14 +52,14 @@
     },
     {
       "name": "Latchford Park D15",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Littlepace/Hunters’ Run D15",
-      "status": "ON",
-      "playable": true,
+      "status": "LP2 OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -94,8 +94,8 @@
     },
     {
       "name": "Alden Park Baldoyle",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -106,62 +106,62 @@
     },
     {
       "name": "Grace O’Malley Park Howth",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Kettles Park Malahide",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Malahide Demesne",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Portmarnock SLC",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Racecourse Park Baldoyle",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Robswall Malahide",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Robswall (Paddy’s Hill) Park",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Seabury Malahide",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Seagrange Park Malahide",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
       "name": "Waterside Malahide",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
       "name": "Hamlet Lane",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     }
   ]
