@@ -1,11 +1,11 @@
 {
-  "scrape_time": "2026-10-29T14:58:52.430857+00:00",
+  "scrape_time": "2026-10-30T14:52:23.279449+00:00",
   "council": "FCC",
   "pitches": [
     {
       "name": "Beechpark D15",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -40,8 +40,8 @@
     },
     {
       "name": "Ladyswell Park D15",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -52,14 +52,14 @@
     },
     {
       "name": "Latchford Park D15",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Littlepace/Hunters’ Run D15",
-      "status": "LP2 OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "Alden Park Baldoyle",
-      "status": "OFF",
+      "status": "",
       "playable": false,
       "Council": "FCC"
     },
@@ -106,62 +106,62 @@
     },
     {
       "name": "Grace O’Malley Park Howth",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Kettles Park Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Malahide Demesne",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Portmarnock SLC",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Racecourse Park Baldoyle",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Robswall Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Robswall (Paddy’s Hill) Park",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Seabury Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Seagrange Park Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
       "name": "Waterside Malahide",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -233,7 +233,7 @@
     {
       "name": "Swords Manor",
       "status": "ON",
-      "playable": true,
+      "playable": false,
       "Council": "FCC"
     },
     {
