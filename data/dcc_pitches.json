@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-11-05T16:12:56.016035+00:00",
+  "scrape_time": "2026-11-06T15:42:58.320230+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "GALTYMORE",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -244,8 +244,8 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
       "name": "ROCKFIELD PARK",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
