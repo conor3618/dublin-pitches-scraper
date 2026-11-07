@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-11-06T15:42:59.380300+00:00",
+  "scrape_time": "2026-11-07T14:42:52.875361+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -94,8 +94,8 @@
     },
     {
       "name": "Alden Park Baldoyle",
-      "status": "",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -220,8 +220,8 @@
     },
     {
       "name": "Rivermeade St Margarets",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
@@ -233,7 +233,7 @@
     {
       "name": "Swords Manor",
       "status": "ON",
-      "playable": false,
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
       "name": "Hamlet Lane",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     }
   ]
