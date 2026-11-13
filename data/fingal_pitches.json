@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-11-12T16:37:27.326234+00:00",
+  "scrape_time": "2026-11-13T15:56:54.877026+00:00",
   "council": "FCC",
   "pitches": [
     {
@@ -220,8 +220,8 @@
     },
     {
       "name": "Rivermeade St Margarets",
-      "status": "OFF",
-      "playable": false,
+      "status": "ON",
+      "playable": true,
       "Council": "FCC"
     },
     {
@@ -280,8 +280,8 @@
     },
     {
       "name": "Rathmore Road Lusk",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "FCC"
     },
     {
