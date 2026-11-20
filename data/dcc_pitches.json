@@ -1,11 +1,11 @@
 {
-  "scrape_time": "2026-11-19T17:06:32.710104+00:00",
+  "scrape_time": "2026-11-20T16:44:53.130063+00:00",
   "council": "DCC",
   "pitches": [
     {
       "name": "ALBERT COLLEGE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -16,14 +16,14 @@
     },
     {
       "name": "ARDMORE DRIVE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "ASHINGTON PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -88,20 +88,20 @@
     },
     {
       "name": "CLONTURK PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "COOLGREENA CLOSE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "COULTRY PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "name": "DUNDANIEL OPEN SPACE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -154,8 +154,8 @@
     },
     {
       "name": "ELLENFIELD",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
       "name": "FARNHAM CRESCENT",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -184,20 +184,20 @@
     },
     {
       "name": "HERBERT",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "IRISHTOWN",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "JOHN PAUL PARK",
-      "status": "ON Sat & Sun",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "name": "KILDONAN ROAD",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -220,8 +220,8 @@
     },
     {
       "name": "LE FANU",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -250,14 +250,14 @@
     },
     {
       "name": "MARTIN SAVAGE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "MELLOWES",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -274,8 +274,8 @@
     },
     {
       "name": "NORTHWAY PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "name": "PLUNKETT AVENUE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "POPPINTREE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -304,14 +304,14 @@
     },
     {
       "name": "RINGSEND PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "ROCKFIELD PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -322,8 +322,8 @@
     },
     {
       "name": "SEAN MOORE PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "PITCHES 1&2 OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -358,8 +358,8 @@
     },
     {
       "name": "TOLKA VALLEY",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
