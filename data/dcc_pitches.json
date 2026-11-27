@@ -1,5 +1,5 @@
 {
-  "scrape_time": "2026-11-26T18:09:54.570551+00:00",
+  "scrape_time": "2026-11-27T17:53:33.154469+00:00",
   "council": "DCC",
   "pitches": [
     {
@@ -28,20 +28,20 @@
     },
     {
       "name": "BALCURRIS",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "BEECH HILL, DONNYBROOK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "BELCAMP/PRIORSWOOD",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -58,20 +58,20 @@
     },
     {
       "name": "BRICKFIELDS",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "BUNTING ROAD",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "BUSHY PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -118,8 +118,8 @@
     },
     {
       "name": "DARTRY",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "name": "FR. COLLINS PARK",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "name": "JOHNSTOWN",
-      "status": "ON",
+      "status": "Pitches 3,4 ON",
       "playable": true,
       "Council": "DCC"
     },
@@ -214,14 +214,14 @@
     },
     {
       "name": "KILMORE DRIVE",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "LE FANU",
-      "status": "OFF",
-      "playable": false,
+      "status": "Pitches 1,2,3,4,7 ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -244,14 +244,14 @@
     },
     {
       "name": "MARKIEVICZ",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
       "name": "MARTIN SAVAGE",
-      "status": "OFF",
-      "playable": false,
+      "status": "Soccer ON",
+      "playable": true,
       "Council": "DCC"
     },
     {
@@ -280,8 +280,8 @@
     },
     {
       "name": "OSCAR TRAYNOR",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "name": "SEAN MOORE PARK",
-      "status": "PITCHES 1&2 OFF",
+      "status": "OFF",
       "playable": false,
       "Council": "DCC"
     },
@@ -334,8 +334,8 @@
     },
     {
       "name": "ST. ANNE'S",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
@@ -364,8 +364,8 @@
     },
     {
       "name": "WALKINSTOWN",
-      "status": "ON",
-      "playable": true,
+      "status": "OFF",
+      "playable": false,
       "Council": "DCC"
     },
     {
